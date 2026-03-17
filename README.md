@@ -1,16 +1,13 @@
-## Hi there 👋
+<div id="header" align="center">
 
-<!--
-**favwnm/favwnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.imgur.com/GFcr6oq.png" width="200px" align="center">
 
-Here are some ideas to get you started:
+<div id="header" align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=favwnm&label=pretty_visitors&style=plastic&color=FF8899&abbreviated=true)
+
+<div id="header" align="center">
+
+[<ins>*rentry*](https://rentry.co/catapvlt) ⠀ ‎ ‎  ‎[<ins>*prns.cc*](https://pronouns.cc/@nollcaeru) ⠀ ‎ ‎ [<ins>*quaver*](https://quavergame.com/user/495491)
+
+![](https://i.imgur.com/ZrQlQBY.gif)
