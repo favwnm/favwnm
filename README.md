@@ -8,6 +8,6 @@
 
 <div id="header" align="center">
 
-[<ins>*rentry*](https://rentry.co/catapvlt) ⠀ ‎ ‎  ‎[<ins>*prns.cc*](https://pronouns.cc/@nollcaeru) ⠀ ‎ ‎ [<ins>*quaver*](https://quavergame.com/user/495491)
+[<ins>*rentry*](https://rentry.co/catapvlt) ⠀ ‎ ‎  ‎[<ins>*prns.cc*](https://pronouns.cc/@nollcaeru) ⠀ ‎ ‎ [<ins>*listo*](https://listography.com/shiranamis)
 
 ![](https://i.imgur.com/ZrQlQBY.gif)
