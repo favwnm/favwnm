@@ -7,12 +7,11 @@
 <img src="https://i.imgur.com/fS6sflY.png" width="400px" align="center">
 
 <div id="header" align="center">
-
-
-  
-
+ 　
 
 <div id="header" align="center">
+ 　
+
 
 [<ins>*rentry*](https://rentry.co/catapvlt) ⠀ ‎ ‎  ‎[<ins>*atabook*](https://humbugs.atabook.org) ⠀ ‎ ‎ [<ins>*listo*](https://listography.com/shiranamis)
 
