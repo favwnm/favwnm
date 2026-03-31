@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
 
-<img src="https://i.imgur.com/fS6sflY.png" width="400px" align="center">
+<img src="https://i.imgur.com/Ctqms3f.png" width="500px" align="center">
 
 <div id="header" align="center">
  　
