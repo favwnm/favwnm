@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=favwnm&label=pretty_visitors&style=plastic&color=FF8899)
 
-<img src="https://i.imgur.com/5vt6ZyN.png" width="620px" align="center">
+<img src="https://i.imgur.com/5vt6ZyN.png" width="380px" align="center">
 
 <div id="header" align="center">
 
